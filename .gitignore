@@ -15,15 +15,3 @@ Thumbs.db
 # Environment
 .env
 .venv/
-dont include/extras/emotion_cnn_model.h5
-dont include/extras/fine_tune_mobilenetv2_fixed.py
-dont include/extras/fine_tune_mobilenetv2.py
-dont include/extras/gradcam_emotion_cnn_final_fixed.py
-dont include/extras/gradcam_emotion_cnn_final.py
-dont include/extras/gradcam_emotion_cnn_fixed.py
-dont include/extras/gradcam_emotion_cnn_functional.py
-dont include/extras/gradcam_emotion_cnn_save.py
-dont include/extras/gradcam_emotion_cnn2.py
-dont include/extras/mobilenetv2_fine_tuned.py
-dont include/extras/train_emotion_cnn.py
-dont include/extras/accuracy_pngs/accuracy_plot.png
